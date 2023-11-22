@@ -46,6 +46,10 @@ The primary purpose of the project is to demonstrate the implementation of vario
 
 - Utilize the observer pattern to notify external services (e.g., DeliveryService) when an order is placed.
 
+  #### UML DIAGRAM
+![Pizza](- https://github.com/nahaype14/SDP-final/blob/main/msg1163363026-65122.jpg)
+
+
 ## Instructions for Running the Project:
 
 1. Clone the repository.
